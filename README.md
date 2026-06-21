@@ -1,6 +1,6 @@
 ## Visualization Showcase
 
-This repository contains various visualizations I created for classes
+This repository contains various visualizations created for classes
 at Northwestern University
 
 ### Sub-Folders / directories
